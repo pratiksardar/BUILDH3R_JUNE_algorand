@@ -96,6 +96,6 @@ algorand.send.asset_transfer(
     )
 )
 
-print("post clawback:")
+print("after clawback:")
 print("receiver account asset balance:", algorand.account.get_information(receiver.address)["assets"][0]["amount"])
 print("creator account asset balance:", algorand.account.get_information(creator.address)["assets"][0]["amount"])

@@ -1,5 +1,5 @@
 ## Proof of script running:
-<img title="Proof of script running:" alt="Proof of script running:" src="images.png">
+<img title="Proof of script running:" alt="Proof of script running:" src="image.png">
 
 ### Join the algodevs community and work with thousands of developers just like you!
 
